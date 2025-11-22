@@ -22,8 +22,9 @@ def max_number_check():
 
 max_number_check()
 print("Тесты пройдены!")
-print(max_number(10,20))
+print(max_number(10, 20))
 for num in even_numbers(20):
     print(num)
+
 
 
