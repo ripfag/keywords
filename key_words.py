@@ -1,7 +1,7 @@
-def max_number(a,b):
+def max_number(a, b):
     if a > b:
         return a
-        return b
+    return b
 
 
 def empty_function():
